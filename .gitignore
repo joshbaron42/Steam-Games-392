@@ -1,0 +1,10 @@
+# Dataset is >100 MB; lives in shared Google Drive (see README)
+data/
+*.csv
+*.csv.zip
+
+# OS / editor junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+~$*
