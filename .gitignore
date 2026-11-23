@@ -8,3 +8,9 @@ data/
 .ipynb_checkpoints/
 __pycache__/
 ~$*
+
+# Exception: the cleaned dataset (~48 MB) IS shared on this branch
+!steam_clean.csv
+
+# Local notes for Claude, not part of the project
+CLAUDE_HANDOFF.md
